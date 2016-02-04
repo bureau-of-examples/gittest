@@ -4,8 +4,5 @@
 some hot fix.
 v1 change
 v1.1 change
-<<<<<<< Updated upstream
-v2 change
-=======
 v2 change issue1
->>>>>>> Stashed changes
+v2 change issue2
